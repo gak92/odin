@@ -1,0 +1,17 @@
+.clickme,
+.dontclick
+{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.clickme
+{
+    background-color: black;
+    color: white;
+}
+
+.dontclick
+{
+    background-color: yellow;
+}
